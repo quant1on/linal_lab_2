@@ -2,9 +2,6 @@ from math import sqrt
 from random import uniform
 import typing as tp
 
-from numpy import disp
-from psutil import disk_partitions
-
 from dichotomy import *
 from copy import deepcopy
 from itertools import combinations
